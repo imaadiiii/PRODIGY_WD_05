@@ -1,4 +1,4 @@
-const apiKey = 'deb66b1de221768c5f5833d7dd7d4975';
+const apiKey = 'enter your key';
 
 document.getElementById('getWeatherBtn').addEventListener('click', fetchWeather);
 
